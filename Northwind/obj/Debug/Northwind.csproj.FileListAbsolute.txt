@@ -1,0 +1,11 @@
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\bin\Debug\Northwind.exe.config
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\bin\Debug\Northwind.exe
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\bin\Debug\Northwind.pdb
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\obj\Debug\Northwind.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\obj\Debug\Northwind.Form1.resources
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\obj\Debug\Northwind.csproj.GenerateResource.cache
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\obj\Debug\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\obj\Debug\Northwind.exe
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\obj\Debug\Northwind.pdb
+C:\Users\ALTAN EMRE\source\repos\Northwind\Northwind\obj\Debug\Northwind.frm_Order.resources
